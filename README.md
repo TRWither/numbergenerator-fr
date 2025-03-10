@@ -1,2 +1,2 @@
-# numbergenerator-fr
+# NumGenF
 Générateur de nombre aléatoire
